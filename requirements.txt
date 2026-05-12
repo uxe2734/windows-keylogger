@@ -1,3 +1,4 @@
 pynput
 pyperclip
 requests
+pyinstaller
